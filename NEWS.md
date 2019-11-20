@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Option to do climate-based connectivity
 - Parallelism via multi-threading (done in [threads](https://github.com/Circuitscape/Omniscape.jl/tree/threads) branch)
 
+## [v0.1.2]
+- Fixed an issue with target identification and source strength allocation
 - Omniscape now accepts any nodata value in input files
 
 ## [v0.1.1]
@@ -21,4 +23,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - option to use resistance surface to assign source weights
 
 [Unreleased]: https://github.com/circuitscape/Omniscape.jl/compare/v0.1.0...master
+[v0.1.1]: https://github.com/circuitscape/Omniscape.jl/compare/v0.1.0...v0.1.2
 [v0.1.1]: https://github.com/circuitscape/Omniscape.jl/compare/v0.1.0...v0.1.1
